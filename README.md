@@ -1,4 +1,4 @@
-# Snake Water Gun Game Using Python
+# Snake :snake: Water :ocean: Gun :gun: Game Using Python
 
 Snake Water Gun is one of the famous two-player game played by many people. It is a hand game in which the player randomly chooses any of the three forms i.e. snake, water, and gun. Here, we are going to implement this game using python. 
 
@@ -16,9 +16,9 @@ Snake Water Gun is one of the famous two-player game played by many people. It i
 
 ### Input :
         Players Turn:
-            1.Press "S" For Snake 
-            2.Press "W" For Water 
-            3.Press "G" for Gun   
+            1.Press "S" For Snake :snake:
+            2.Press "W" For Water :ocean:
+            3.Press "G" for Gun :gun: 
             >>>>>>>>>>>>> w  
 
 **'W'Means Player choose Water**
