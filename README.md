@@ -16,9 +16,9 @@ Snake Water Gun is one of the famous two-player game played by many people. It i
 
 ### Input :
         Players Turn:
-            1.Press "S" For Snake :snake:
-            2.Press "W" For Water :ocean:
-            3.Press "G" for Gun :gun: 
+            1.Press "S" For Snake
+            2.Press "W" For Water
+            3.Press "G" for Gun 
             >>>>>>>>>>>>> w  
 
 **'W'Means Player choose Water**
